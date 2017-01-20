@@ -1,0 +1,3 @@
+class Config(object):
+    BOT_TOKEN = "Put your bot's token here!"
+
